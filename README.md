@@ -41,6 +41,9 @@ Now with this Desktop Application you don't have to work with the Notepad and th
 # 1. Install Python
 https://www.python.org/downloads/
 
+#1a. For Windows
+npm --add-python-to-path='true' --debug install --global windows-build-tools
+
 # 2. Install yarn
 https://classic.yarnpkg.com/en/docs/install
 
